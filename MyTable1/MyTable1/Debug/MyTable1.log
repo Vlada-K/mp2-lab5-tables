@@ -1,0 +1,11 @@
+﻿  MyTable.cpp
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(25,7): warning C4101: Line: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(24,19): warning C4101: RetCode: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(24,6): warning C4101: MaxKeyValue: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(114,7): warning C4101: Line: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(113,19): warning C4101: RetCode: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(113,6): warning C4101: MaxKeyValue: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(204,7): warning C4101: Line: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(203,19): warning C4101: RetCode: неиспользованная локальная переменная
+C:\Users\Николай Борисов\source\repos\MyTable1\MyTable1\MyTable.cpp(203,6): warning C4101: MaxKeyValue: неиспользованная локальная переменная
+  MyTable1.vcxproj -> C:\Users\Николай Борисов\source\repos\MyTable1\Debug\MyTable1.exe
