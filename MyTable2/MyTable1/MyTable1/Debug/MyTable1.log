@@ -1,0 +1,11 @@
+﻿  MyTable.cpp
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(24,7): warning C4101: Line: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(23,19): warning C4101: RetCode: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(23,6): warning C4101: MaxKeyValue: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(113,7): warning C4101: Line: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(112,19): warning C4101: RetCode: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(112,6): warning C4101: MaxKeyValue: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(203,7): warning C4101: Line: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(202,19): warning C4101: RetCode: неиспользованная локальная переменная
+C:\Users\karch\Downloads\MyTable2\MyTable1\MyTable1\MyTable.cpp(202,6): warning C4101: MaxKeyValue: неиспользованная локальная переменная
+  MyTable1.vcxproj -> C:\Users\karch\Downloads\MyTable2\MyTable1\Debug\MyTable1.exe
